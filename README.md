@@ -1,2 +1,2 @@
 # pingpongcplusplus
-i have developed the game named ping pong on c++
+I have developed the Ping pong game by using the OOP principles.
